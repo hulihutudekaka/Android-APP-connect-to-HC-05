@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BuleTooth</string>
+    <string name="support_bluetooth">支持蓝牙？</string>
+    <string name="is_turn_on">蓝牙是否打开？</string>
+    <string name="turn_on">打开蓝牙</string>
+    <string name="turn_off">关闭蓝牙</string>
+    <string name="find_device">查找设备</string>
+    <string name="get_bonded_device">获取已绑定设备</string>
+</resources>
